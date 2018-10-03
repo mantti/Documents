@@ -2,10 +2,9 @@
 
 ## Vim cheatsheet
 
-## [git commands] (git.md)
+## git commands
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+[Basic git workflow](git.md)
 
 
 ## Ansible hacks
