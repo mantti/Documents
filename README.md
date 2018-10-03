@@ -2,8 +2,7 @@
 
 ## Vim cheatsheet
 
-
-## git commands
+## [git commands] (git.md)
 
 ## Ansible hacks
 
